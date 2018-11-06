@@ -4,10 +4,10 @@
 ##latihan1.cpp:Mencari Angka Terbesar dari Sejumlah Bilangan yang Diinputkan Sebelum Diinputkan 0
 
 **Alur Algoritma**
-1. Mendeklarasikan  variabel **int n=0** dan **int max=0**
-2. Membaca input dari keyboard cin >> n
-3. Bandingkan **n > max** proses diulangi selama  nilai n tidak berjumlah 0
-4. Cetak **max**
+1. Mendeklarasikan  variabel **int n=0** dan **int max=0**.
+2. Membaca input dari keyboard **cin >> n**.
+3. Bandingkan **n > max** proses diulangi selama  nilai n tidak berjumlah 0.
+4. Cetak **max**.
 
 **flowchart Program**
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum4/master/latihan1.cpp/flowchartt1.png)
@@ -43,19 +43,19 @@ int main()
 
 **Alur Algoritma**
 1. Mendeklarasikan variabel penjelasan (x,y,barang,harga,jumlah barang,diskon,banyak barang,total,nilai N dan total belanjaan).
-2. Membaca nilai **N** untuk menginput banyaknya barang dan di deskripsikan lagi dengan (x,y) untuk variabel pembanding
-3. Membandingkan nilai variabel **x** dan **y**  dengan hasil x lebih kecil atau sama dengan y (x<=y) mengunakan while untuk mengulangi hasil semua intruksi yang diinputkan
+2. Membaca nilai **N** untuk menginput banyaknya barang dan di deskripsikan lagi dengan (x,y) untuk variabel pembanding.
+3. Membandingkan nilai variabel **x** dan **y**  dengan hasil x lebih kecil atau sama dengan y (x<=y) mengunakan while untuk mengulangi hasil semua intruksi yang diinputkan.
 4. Membaca atau cerak variabel **a** untuk barang ke-
-5. Membaca atau cetak variabel **jumlah beli** dan **harga** untuk menginturksikan input harga dan barang
+5. Membaca atau cetak variabel **jumlah beli** dan **harga** untuk menginturksikan input harga dan barang.
 6. input program sesuai perintah
 	```harga barang = harga*jumlah_beli;
 	   total=total + harga barang;
 	   total_beli += jumlah_beli;
 
-untuk bisa menjumlahkan hasil
-7. Kemudian deskripsikan variabel diskon yang mau kita taruh di program ini dengan intruksi (if-then-else)
-8. Jika selesai intruksikan kembali (bayar=total-diskon)
-9. Cetak semua hasil perintah diatas (jumlah barang, total harga belanja, diskon yang diberikan, harga yang harus dibayar)
+untuk bisa menjumlahkan hasil.
+7. Kemudian deskripsikan variabel diskon yang mau kita taruh di program ini dengan intruksi (if-then-else).
+8. Jika selesai intruksikan kembali (bayar=total-diskon).
+9. Cetak semua hasil perintah diatas (jumlah barang, total harga belanja, diskon yang diberikan, harga yang harus dibayar).
 
 **flowchart Program**
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum4/master/latihan2.cpp/flowchart2.png)

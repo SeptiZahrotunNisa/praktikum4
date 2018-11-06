@@ -9,7 +9,7 @@
 3. Bandingkan **n > max** proses diulangi selama  nilai n tidak berjumlah 0.
 4. Cetak **max**.
 
-**flowchart Program**
+**Flowchart Program**
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum4/master/latihan1.cpp/flowchartt1.png)
 
 **Code Program**
@@ -57,7 +57,7 @@ untuk bisa menjumlahkan hasil.
 8. Jika selesai intruksikan kembali (bayar=total-diskon).
 9. Cetak semua hasil perintah diatas (jumlah barang, total harga belanja, diskon yang diberikan, harga yang harus dibayar).
 
-**flowchart Program**
+**Flowchart Program**
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum4/master/latihan2.cpp/flowchart2.png)
 
 **Code Program**
